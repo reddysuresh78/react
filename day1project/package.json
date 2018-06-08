@@ -1,0 +1,21 @@
+{
+  "name": "day1project",
+  "version": "1.0.0",
+  "description": "this is first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo   no test specified",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "suresh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
